@@ -43,7 +43,7 @@ const Hero = () => {
         <img
           src={images.ProperMainPic}
           alt="Sidebar"
-          className="w-3/4 h-3/4 aspect-[1/1] block overflow-clip rounded-lg shadow-[0_35px_60px_-15px_rgba(0,0,0,0.3)]"
+          className="w-11/12 h-3/4 aspect-square block overflow-clip rounded-lg shadow-[0_35px_60px_-15px_rgba(0,0,0,0.2)]"
         />
       </div>
     </section>

@@ -7,7 +7,7 @@ import { images } from "../../constants/index";
 
 const data1 = [
   {
-    img1: images.ActService,
+    img1: images.BLO_DarkMode,
     title1: "Vision",
     content1: [
       "Alleviate unemployment",

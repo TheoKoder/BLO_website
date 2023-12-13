@@ -6,6 +6,7 @@
 
 html{
     behavior: smooth;
+    overflow: auto;
 }
 .box-card{
     height: fit-content;
